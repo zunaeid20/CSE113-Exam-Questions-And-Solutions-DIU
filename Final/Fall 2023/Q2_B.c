@@ -1,4 +1,4 @@
-//Counting a particular element in a one dimentional array
+//Counting a particular element in a one dimensional array
 #include<stdio.h>
 int main(){
     int n, count=0, x;
