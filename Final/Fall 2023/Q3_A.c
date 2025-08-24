@@ -1,4 +1,4 @@
-//Finding the smallest among 3 numbers of a one dimentional array
+//Finding the smallest among 3 numbers of a one dimensional array
 #include<stdio.h>
 int main(){
     int arr[4];
