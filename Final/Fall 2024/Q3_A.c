@@ -1,4 +1,5 @@
 //Finding a substring inside a string
+//This code is not created according to the question. In the question, strstr() function is said not to be used.
 #include <stdio.h>
 #include <string.h>
 int main() {
